@@ -73,7 +73,7 @@ export function usePomodoro(config?: IConfig) {
       });
     }, 1000);
     return () => clearInterval(interval);
-  }, [isRunning, mode]);
+  }, [isRunning, mode, round]);
 
   return {
     mode,
