@@ -1,3 +1,6 @@
+#usePomodoro 
+<img width="578" height="469" alt="image" src="https://github.com/user-attachments/assets/e267f84b-ffab-4c60-8a59-0ee1b3df4764" />
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
